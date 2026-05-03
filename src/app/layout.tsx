@@ -1,15 +1,19 @@
-import type { Metadata } from 'next';
-import './globals.css';
- 
+import type { Metadata } from 'next'
+import './globals.css'
+
 export const metadata: Metadata = {
-  title: 'AI Industrial - Global Laser Equipment Platform',
-  description: 'Leading manufacturer of laser cutting and welding machines. Professional solutions for industrial manufacturing worldwide.',
-};
- 
+  title: 'AI Global Marketing Platform',
+  description: 'AI驱动的全球化外贸营销平台',
+}
+
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode;
+  children: React.ReactNode
 }) {
-  return children;
+  return (
+    <html lang="zh">
+      <body>{children}</body>
+    </html>
+  )
 }
