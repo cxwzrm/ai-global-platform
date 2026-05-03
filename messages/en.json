@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "AI Industrial - Global Laser Equipment Platform",
+    "description": "Leading manufacturer of laser cutting and welding machines. Professional solutions for industrial manufacturing worldwide."
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "AI-Powered Industrial Laser Solutions",
+    "subtitle": "Advanced laser cutting and welding technology for precision manufacturing. Trusted by 500+ companies worldwide.",
+    "cta": "Explore Products",
+    "secondaryCta": "Contact Us"
+  },
+  "features": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "title": "AI-Enhanced Precision",
+        "description": "Intelligent control systems ensure micron-level accuracy across all operations."
+      },
+      {
+        "title": "Global Support",
+        "description": "24/7 technical support with multilingual engineers across 30+ countries."
+      },
+      {
+        "title": "Energy Efficient",
+        "description": "Up to 40% energy savings compared to traditional industrial equipment."
+      },
+      {
+        "title": "Rapid Deployment",
+        "description": "Complete installation and training within 7 days of delivery."
+      }
+    ]
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Comprehensive range of industrial laser equipment for various applications",
+    "viewAll": "View All Products",
+    "categories": {
+      "laserCutting": "Laser Cutting Machines",
+      "laserWelding": "Laser Welding Machines",
+      "accessories": "Accessories & Parts"
+    }
+  },
+  "stats": {
+    "title": "Our Achievements",
+    "items": [
+      { "value": "500+", "label": "Global Clients" },
+      { "value": "30+", "label": "Countries Served" },
+      { "value": "15+", "label": "Years Experience" },
+      { "value": "99.8%", "label": "Uptime Rate" }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your Manufacturing?",
+    "subtitle": "Get a customized solution for your industrial needs. Our experts are ready to help.",
+    "button": "Request Free Consultation"
+  },
+  "footer": {
+    "description": "Leading innovator in AI-powered industrial laser solutions since 2009.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "address": "Industrial Zone, Suzhou, China",
+    "email": "info@aiindustrial.com",
+    "phone": "+86 512 1234 5678",
+    "copyright": "© 2024 AI Industrial. All rights reserved."
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "getQuote": "Get Quote",
+    "contactUs": "Contact Us",
+    "download": "Download Catalog",
+    "submit": "Submit",
+    "send": "Send Message"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "content": "To revolutionize industrial manufacturing through AI-powered laser technology, enabling businesses worldwide to achieve unprecedented precision and efficiency."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "A world where advanced laser technology is accessible to every manufacturer, driving sustainable industrial growth and innovation."
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Led by industry veterans and AI researchers from top universities."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for inquiries, quotes, or technical support.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company Name",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "subject": "Subject",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Business Hours"
+    }
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Discover our comprehensive range of industrial laser equipment",
+    "filter": {
+      "all": "All Products",
+      "category": "Category",
+      "sortBy": "Sort By",
+      "price": "Price Range"
+    },
+    "details": {
+      "specifications": "Specifications",
+      "features": "Features",
+      "applications": "Applications",
+      "relatedProducts": "Related Products",
+      "requestQuote": "Request Quote"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "required": "Required",
+    "optional": "Optional",
+    "search": "Search"
+  }
+}

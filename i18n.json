@@ -1,0 +1,6 @@
+{
+  "$schema": "https://next-intl-schema.org/schema.json",
+  "messages": {
+    "*": ["./messages/*.json"]
+  }
+}

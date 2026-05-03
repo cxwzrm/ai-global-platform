@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "AI Industrial - Plateforme Mondiale d'Équipements Laser",
+    "description": "Fabricant leader de machines de découpe et soudage laser. Solutions professionnelles pour la fabrication industrielle mondiale."
+  },
+  "navigation": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À Propos",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Solutions Laser Industrielles Alimentées par IA",
+    "subtitle": "Technologie avancée de découpe et soudage laser pour la fabrication de précision. Approuvée par plus de 500 entreprises dans le monde.",
+    "cta": "Explorer les Produits",
+    "secondaryCta": "Contactez-Nous"
+  },
+  "features": {
+    "title": "Pourquoi Nous Choisir",
+    "items": [
+      {
+        "title": "Précision Améliorée par IA",
+        "description": "Des systèmes de contrôle intelligents garantissant une précision au micron sur toutes les opérations."
+      },
+      {
+        "title": "Support Mondial",
+        "description": "Support technique 24/7 avec des ingénieurs multilingues dans plus de 30 pays."
+      },
+      {
+        "title": "Économe en Énergie",
+        "description": "Jusqu'à 40% d'économies d'énergie par rapport aux équipements industriels traditionnels."
+      },
+      {
+        "title": "Déploiement Rapide",
+        "description": "Installation et formation complètes dans les 7 jours suivant la livraison."
+      }
+    ]
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Gamme complète d'équipements laser industriels pour diverses applications",
+    "viewAll": "Voir Tous les Produits",
+    "categories": {
+      "laserCutting": "Machines de Découpe Laser",
+      "laserWelding": "Machines de Soudage Laser",
+      "accessories": "Accessoires et Pièces"
+    }
+  },
+  "stats": {
+    "title": "Nos Réalisations",
+    "items": [
+      { "value": "500+", "label": "Clients Mondiaux" },
+      { "value": "30+", "label": "Pays Desservis" },
+      { "value": "15+", "label": "Années d'Expérience" },
+      { "value": "99,8%", "label": "Taux de Disponibilité" }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à Transformer Votre Fabrication?",
+    "subtitle": "Obtenez une solution personnalisée pour vos besoins industriels. Nos experts sont prêts à vous aider.",
+    "button": "Demander une Consultation Gratuite"
+  },
+  "footer": {
+    "description": "Leader innovant dans les solutions laser industrielles alimentées par IA depuis 2009.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contactez-Nous",
+    "address": "Zone Industrielle, Suzhou, Chine",
+    "email": "info@aiindustrial.fr",
+    "phone": "+86 512 1234 5678",
+    "copyright": "© 2024 AI Industrial. Tous droits réservés."
+  },
+  "buttons": {
+    "learnMore": "En Savoir Plus",
+    "getQuote": "Obtenir un Devis",
+    "contactUs": "Contactez-Nous",
+    "download": "Télécharger le Catalogue",
+    "submit": "Soumettre",
+    "send": "Envoyer le Message"
+  },
+  "about": {
+    "title": "À Propos",
+    "mission": {
+      "title": "Notre Mission",
+      "content": "Révolutionner la fabrication industrielle grâce à la technologie laser alimentée par l'IA, permettant aux entreprises du monde entier d'atteindre une précision et une efficacité sans précédent."
+    },
+    "vision": {
+      "title": "Notre Vision",
+      "content": "Un monde où la technologie laser avancée est accessible à chaque fabricant, favorisant une croissance industrielle durable et l'innovation."
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "subtitle": "Dirigée par des veterans de l'industrie et des chercheurs en IA d'universités de premier plan."
+    }
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Prenez contact avec notre équipe pour des demandes, des devis ou un support technique.",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse E-mail",
+      "company": "Nom de l'Entreprise",
+      "phone": "Numéro de Téléphone",
+      "message": "Votre Message",
+      "subject": "Sujet",
+      "submit": "Envoyer le Message"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "hours": "Heures d'Ouverture"
+    }
+  },
+  "products": {
+    "title": "Produits",
+    "subtitle": "Découvrez notre gamme complète d'équipements laser industriels",
+    "filter": {
+      "all": "Tous les Produits",
+      "category": "Catégorie",
+      "sortBy": "Trier Par",
+      "price": "Gamme de Prix"
+    },
+    "details": {
+      "specifications": "Spécifications",
+      "features": "Caractéristiques",
+      "applications": "Applications",
+      "relatedProducts": "Produits Connexes",
+      "requestQuote": "Demander un Devis"
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès!",
+    "required": "Requis",
+    "optional": "Optionnel",
+    "search": "Rechercher"
+  }
+}

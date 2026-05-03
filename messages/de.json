@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "AI Industrial - Globale Laseranlagen-Plattform",
+    "description": "Führender Hersteller von Laser-Schneid- und Schweißmaschinen. Professionelle Lösungen für die industrielle Fertigung weltweit."
+  },
+  "navigation": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "KI-gestützte industrielle Laserlösungen",
+    "subtitle": "Fortschrittliche Laserschneid- und Schweißtechnologie für präzise Fertigung. Vertraut von über 500 Unternehmen weltweit.",
+    "cta": "Produkte Entdecken",
+    "secondaryCta": "Kontaktieren Sie Uns"
+  },
+  "features": {
+    "title": "Warum Uns Wählen",
+    "items": [
+      {
+        "title": "KI-gestützte Präzision",
+        "description": "Intelligente Steuersysteme gewährleisten Mikron-genauigkeit in allen Abläufen."
+      },
+      {
+        "title": "Globaler Support",
+        "description": "24/7 technischer Support mit mehrsprachigen Ingenieuren in über 30 Ländern."
+      },
+      {
+        "title": "Energieeffizient",
+        "description": "Bis zu 40% Energieeinsparung im Vergleich zu traditionellen Industrieanlagen."
+      },
+      {
+        "title": "Schnelle Implementierung",
+        "description": "Komplette Installation und Schulung innerhalb von 7 Tagen nach Lieferung."
+      }
+    ]
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Umfassende Palette an industriellen Lasergeräten für verschiedene Anwendungen",
+    "viewAll": "Alle Produkte Ansehen",
+    "categories": {
+      "laserCutting": "Laser-Schneidemaschinen",
+      "laserWelding": "Laser-Schweißmaschinen",
+      "accessories": "Zubehör & Teile"
+    }
+  },
+  "stats": {
+    "title": "Unsere Erfolge",
+    "items": [
+      { "value": "500+", "label": "Globale Kunden" },
+      { "value": "30+", "label": "Länder Bedient" },
+      { "value": "15+", "label": "Jahre Erfahrung" },
+      { "value": "99,8%", "label": "Verfügbarkeitsrate" }
+    ]
+  },
+  "cta": {
+    "title": "Bereit, Ihre Fertigung zu transformieren?",
+    "subtitle": "Erhalten Sie eine maßgeschneiderte Lösung für Ihre industriellen Anforderungen. Unsere Experten helfen Ihnen gerne.",
+    "button": "Kostenlose Beratung Anfordern"
+  },
+  "footer": {
+    "description": "Führender Innovator bei KI-gestützten industriellen Laserlösungen seit 2009.",
+    "quickLinks": "Schnelllinks",
+    "contact": "Kontaktieren Sie Uns",
+    "address": "Industriegebiet, Suzhou, China",
+    "email": "info@aiindustrial.de",
+    "phone": "+86 512 1234 5678",
+    "copyright": "© 2024 AI Industrial. Alle Rechte vorbehalten."
+  },
+  "buttons": {
+    "learnMore": "Mehr Erfahren",
+    "getQuote": "Angebot Erhalten",
+    "contactUs": "Kontaktieren Sie Uns",
+    "download": "Katalog Herunterladen",
+    "submit": "Absenden",
+    "send": "Nachricht Senden"
+  },
+  "about": {
+    "title": "Über Uns",
+    "mission": {
+      "title": "Unsere Mission",
+      "content": "Die industrielle Fertigung durch KI-gestützte Lasertechnologie zu revolutionieren und Unternehmen weltweit zu beispielloser Präzision und Effizienz zu verhelfen."
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "content": "Eine Welt, in der fortschrittliche Lasertechnologie für jeden Hersteller zugänglich ist und nachhaltiges industrielles Wachstum und Innovation fördert."
+    },
+    "team": {
+      "title": "Unser Team",
+      "subtitle": "Geleitet von Branchenveteranen und KI-Forschern renommierter Universitäten."
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie Uns",
+    "subtitle": "Nehmen Sie Kontakt mit unserem Team auf für Anfragen, Angebote oder technischen Support.",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "company": "Firmenname",
+      "phone": "Telefonnummer",
+      "message": "Ihre Nachricht",
+      "subject": "Betreff",
+      "submit": "Nachricht Senden"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "hours": "Geschäftszeiten"
+    }
+  },
+  "products": {
+    "title": "Produkte",
+    "subtitle": "Entdecken Sie unsere umfassende Palette an industriellen Lasergeräten",
+    "filter": {
+      "all": "Alle Produkte",
+      "category": "Kategorie",
+      "sortBy": "Sortieren Nach",
+      "price": "Preisbereich"
+    },
+    "details": {
+      "specifications": "Spezifikationen",
+      "features": "Funktionen",
+      "applications": "Anwendungen",
+      "relatedProducts": "Verwandte Produkte",
+      "requestQuote": "Angebot Anfordern"
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolg!",
+    "required": "Erforderlich",
+    "optional": "Optional",
+    "search": "Suchen"
+  }
+}

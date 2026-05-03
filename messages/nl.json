@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "AI Industrial - Wereldwijd Platform voor Laserapparatuur",
+    "description": "Toonaangevende fabrikant van laser snij- en lasmachines. Professionele oplossingen voor industriële productie wereldwijd."
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Producten",
+    "about": "Over Ons",
+    "contact": "Contact",
+    "language": "Taal"
+  },
+  "hero": {
+    "title": "AI-aangedreven Industriële Laseroplossingen",
+    "subtitle": "Geavanceerde laser snij- en lastechnologie voor precisieproductie. Vertrouwd door meer dan 500 bedrijven wereldwijd.",
+    "cta": "Ontdek Producten",
+    "secondaryCta": "Neem Contact Op"
+  },
+  "features": {
+    "title": "Waarom Voor Ons Kiezen",
+    "items": [
+      {
+        "title": "AI-verbeterde Precisie",
+        "description": "Intelligente besturingssystemen garanderen micron-niveau nauwkeurigheid bij alle bewerkingen."
+      },
+      {
+        "title": "Wereldwijde Ondersteuning",
+        "description": "24/7 technische ondersteuning met meertalige ingenieurs in meer dan 30 landen."
+      },
+      {
+        "title": "Energiezuinig",
+        "description": "Tot 40% energiebesparing vergeleken met traditionele industriële apparatuur."
+      },
+      {
+        "title": "Snelle Implementatie",
+        "description": "Complete installatie en training binnen 7 dagen na levering."
+      }
+    ]
+  },
+  "products": {
+    "title": "Onze Producten",
+    "subtitle": "Compleet assortiment industriële laserapparatuur voor diverse toepassingen",
+    "viewAll": "Bekijk Alle Producten",
+    "categories": {
+      "laserCutting": "Laser snijmachines",
+      "laserWelding": "Laser lasmachines",
+      "accessories": "Accessoires & Onderdelen"
+    }
+  },
+  "stats": {
+    "title": "Onze Prestaties",
+    "items": [
+      { "value": "500+", "label": "Wereldwijde Klanten" },
+      { "value": "30+", "label": "Landen Bediend" },
+      { "value": "15+", "label": "Jaren Ervaring" },
+      { "value": "99,8%", "label": "Beschikbaarheidspercentage" }
+    ]
+  },
+  "cta": {
+    "title": "Klaar om Uw Productie te Transformeren?",
+    "subtitle": "Krijg een op maat gemaakte oplossing voor uw industriële behoeften. Onze experts staan klaar om te helpen.",
+    "button": "Vraag Gratis Advies Aan"
+  },
+  "footer": {
+    "description": "Toonaangevende innovator in AI-aangedreven industriële laseroplossingen sinds 2009.",
+    "quickLinks": "Snelkoppelingen",
+    "contact": "Neem Contact Op",
+    "address": "Industriegebied, Suzhou, China",
+    "email": "info@aiindustrial.nl",
+    "phone": "+86 512 1234 5678",
+    "copyright": "© 2024 AI Industrial. Alle rechten voorbehouden."
+  },
+  "buttons": {
+    "learnMore": "Meer Informatie",
+    "getQuote": "Offerte Aanvragen",
+    "contactUs": "Neem Contact Op",
+    "download": "Download Catalogus",
+    "submit": "Verzenden",
+    "send": "Bericht Versturen"
+  },
+  "about": {
+    "title": "Over Ons",
+    "mission": {
+      "title": "Onze Missie",
+      "content": "De industriële productie revolutioneren door middel van AI-aangedreven lasertechnologie, waardoor bedrijven wereldwijd ongekende precisie en efficiëntie kunnen bereiken."
+    },
+    "vision": {
+      "title": "Onze Visie",
+      "content": "Een wereld waar geavanceerde lasertechnologie toegankelijk is voor elke fabrikant, duurzame industriële groei en innovatie stimuleert."
+    },
+    "team": {
+      "title": "Ons Team",
+      "subtitle": " geleid door industrieveteranen en AI-onderzoekers van topuniversiteiten."
+    }
+  },
+  "contact": {
+    "title": "Neem Contact Op",
+    "subtitle": "Neem contact op met ons team voor vragen, offertes of technische ondersteuning.",
+    "form": {
+      "name": "Volledige Naam",
+      "email": "E-mailadres",
+      "company": "Bedrijfsnaam",
+      "phone": "Telefoonnummer",
+      "message": "Uw Bericht",
+      "subject": "Onderwerp",
+      "submit": "Bericht Versturen"
+    },
+    "info": {
+      "address": "Adres",
+      "phone": "Telefoon",
+      "email": "E-mail",
+      "hours": "Openingstijden"
+    }
+  },
+  "products": {
+    "title": "Producten",
+    "subtitle": "Ontdek ons complete assortiment industriële laserapparatuur",
+    "filter": {
+      "all": "Alle Producten",
+      "category": "Categorie",
+      "sortBy": "Sorteren Op",
+      "price": "Prijsklasse"
+    },
+    "details": {
+      "specifications": "Specificaties",
+      "features": "Kenmerken",
+      "applications": "Toepassingen",
+      "relatedProducts": "Gerelateerde Producten",
+      "requestQuote": "Offerte Aanvragen"
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Er is een fout opgetreden",
+    "success": "Succes!",
+    "required": "Verplicht",
+    "optional": "Optioneel",
+    "search": "Zoeken"
+  }
+}

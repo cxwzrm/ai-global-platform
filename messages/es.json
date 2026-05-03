@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "AI Industrial - Plataforma Global de Equipos Láser",
+    "description": "Fabricante líder de máquinas de corte y soldadura láser. Soluciones profesionales para la manufactura industrial mundial."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "products": "Productos",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Soluciones Láser Industriales Impulsadas por IA",
+    "subtitle": "Tecnología avanzada de corte y soldadura láser para fabricación de precisión. Confiada por más de 500 empresas en todo el mundo.",
+    "cta": "Explorar Productos",
+    "secondaryCta": "Contáctenos"
+  },
+  "features": {
+    "title": "Por Qué Elegirnos",
+    "items": [
+      {
+        "title": "Precisión Mejorada con IA",
+        "description": "Sistemas de control inteligente que garantizan precisión a nivel de micras en todas las operaciones."
+      },
+      {
+        "title": "Soporte Global",
+        "description": "Soporte técnico 24/7 con ingenieros multilingües en más de 30 países."
+      },
+      {
+        "title": "Eficiencia Energética",
+        "description": "Hasta 40% de ahorro energético comparado con equipos industriales tradicionales."
+      },
+      {
+        "title": "Despliegue Rápido",
+        "description": "Instalación y capacitación completa en 7 días después de la entrega."
+      }
+    ]
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "subtitle": "Gama completa de equipos láser industriales para diversas aplicaciones",
+    "viewAll": "Ver Todos los Productos",
+    "categories": {
+      "laserCutting": "Máquinas de Corte Láser",
+      "laserWelding": "Máquinas de Soldadura Láser",
+      "accessories": "Accesorios y Piezas"
+    }
+  },
+  "stats": {
+    "title": "Nuestros Logros",
+    "items": [
+      { "value": "500+", "label": "Clientes Globales" },
+      { "value": "30+", "label": "Países Atendidos" },
+      { "value": "15+", "label": "Años de Experiencia" },
+      { "value": "99.8%", "label": "Tasa de Disponibilidad" }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Transformar su Manufactura?",
+    "subtitle": "Obtenga una solución personalizada para sus necesidades industriales. Nuestros expertos están listos para ayudar.",
+    "button": "Solicitar Consulta Gratuita"
+  },
+  "footer": {
+    "description": "Líder innovador en soluciones láser industriales impulsadas por IA desde 2009.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contáctenos",
+    "address": "Zona Industrial, Suzhou, China",
+    "email": "info@aiindustrial.es",
+    "phone": "+86 512 1234 5678",
+    "copyright": "© 2024 AI Industrial. Todos los derechos reservados."
+  },
+  "buttons": {
+    "learnMore": "Más Información",
+    "getQuote": "Obtener Cotización",
+    "contactUs": "Contáctenos",
+    "download": "Descargar Catálogo",
+    "submit": "Enviar",
+    "send": "Enviar Mensaje"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "mission": {
+      "title": "Nuestra Misión",
+      "content": "Revolucionar la manufactura industrial a través de tecnología láser impulsada por IA, permitiendo a empresas de todo el mundo lograr precisión y eficiencia sin precedentes."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "content": "Un mundo donde la tecnología láser avanzada sea accesible para cada fabricante, impulsando el crecimiento industrial sostenible y la innovación."
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "subtitle": "Liderado por veteranos de la industria e investigadores de IA de universidades de primer nivel."
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Póngase en contacto con nuestro equipo para consultas, cotizaciones o soporte técnico.",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Dirección de Correo Electrónico",
+      "company": "Nombre de la Empresa",
+      "phone": "Número de Teléfono",
+      "message": "Su Mensaje",
+      "subject": "Asunto",
+      "submit": "Enviar Mensaje"
+    },
+    "info": {
+      "address": "Dirección",
+      "phone": "Teléfono",
+      "email": "Correo Electrónico",
+      "hours": "Horario de Atención"
+    }
+  },
+  "products": {
+    "title": "Productos",
+    "subtitle": "Descubra nuestra gama completa de equipos láser industriales",
+    "filter": {
+      "all": "Todos los Productos",
+      "category": "Categoría",
+      "sortBy": "Ordenar Por",
+      "price": "Rango de Precio"
+    },
+    "details": {
+      "specifications": "Especificaciones",
+      "features": "Características",
+      "applications": "Aplicaciones",
+      "relatedProducts": "Productos Relacionados",
+      "requestQuote": "Solicitar Cotización"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "¡Éxito!",
+    "required": "Requerido",
+    "optional": "Opcional",
+    "search": "Buscar"
+  }
+}
