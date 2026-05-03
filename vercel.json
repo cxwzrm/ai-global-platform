@@ -1,18 +1,9 @@
 {
   "version": 2,
-  "buildCommand": "npm run build",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install",
-  "framework": "nextjs",
-  "regions": ["iad1"],
-  "functions": {
-    "app/**": {
-      "maxDuration": 10
-    }
-  },
-  "env": {
-    "NEXT_PUBLIC_SANITY_PROJECT_ID": "t8o1zoqj",
-    "NEXT_PUBLIC_SANITY_DATASET": "production",
-    "NEXT_PUBLIC_SANITY_API_VERSION": "2024-01-01"
-  }
+  "builds": [
+    { "src": "public/**", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/public/$1" }
+  ]
 }
